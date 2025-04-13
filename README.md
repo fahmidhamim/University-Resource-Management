@@ -1,2 +1,1 @@
-# University-Resource-Management
-CSE327 Project
+# University-Resource-Management-System
